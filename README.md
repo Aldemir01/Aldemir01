@@ -48,7 +48,7 @@ Projetos de portfólio voltados a suporte, dados e sistemas
 
 Contato
 
-Você pode falar comigo pelo LinkedIn.
+Você pode falar comigo pelo <a href="https://www.linkedin.com/in/aldemir-romario/">LinkedIn</a>.
 
 <!--
 Adicione uma seção "Projetos em destaque" somente quando houver projetos completos,

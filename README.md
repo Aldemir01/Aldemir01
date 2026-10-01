@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Aldemir Romário 👋</h1>
+<h1 align="center">Salve, eu sou Aldemir Romário 👋</h1>
 
 <p align="center">
   <strong>Bacharel em Ciência da Computação | Analista de TI e Suporte Técnico</strong>
